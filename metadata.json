@@ -1,0 +1,6 @@
+{
+  "name": "Liber Lunis - Digitalt Läromedel",
+  "description": "Digitalt läromedel för SFI och SVA med interaktiva kurser, komplett svenskt verblexikon och böjningsguide för nivå B, C och D, grammatikregler, talsyntes, ordbok på arabiska, franska, italienska och engelska, självrättande övningar och lärarportal.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
